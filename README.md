@@ -7,6 +7,7 @@ So its basically made using flutter cubit and bloc with the help of Poke API whi
 Might add some modifications in future!
 
 Here are some screenshots:
+
 ![Screenshot (434)](https://user-images.githubusercontent.com/70195348/124376864-99637700-dcc6-11eb-899c-75fbeddf0101.png)
 ![Screenshot (496)](https://user-images.githubusercontent.com/70195348/124376891-b4ce8200-dcc6-11eb-9f55-348b14f02de6.png)
 ![Screenshot (435)](https://user-images.githubusercontent.com/70195348/124376866-9cf6fe00-dcc6-11eb-8f96-06c20876175f.png)
